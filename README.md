@@ -17,9 +17,10 @@ I am open to a challenging position in a data-driven setting to use my skills on
 
 
 ## Contact
-* Digital Resume: [https://cutt.ly/my-digital-resume]
-* LinkedIn: [www.linkedin.com/in/j3sus-lmonroy]
-* Email: [jlmonroy01@gmail.com]
+* [Digital Resume](https://cutt.ly/my-digital-resume)
+* [LinkedIn](www.linkedin.com/in/j3sus-lmonroy)
+* [Email](jlmonroy01@gmail.com)
+  
 ©️ 2023
 ---
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
