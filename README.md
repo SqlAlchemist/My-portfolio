@@ -1,4 +1,5 @@
 # Personal Portfolio
+
 ## About me
 
 **Economist | Data analyst**
@@ -15,8 +16,10 @@ I am open to a challenging position in a data-driven setting to use my skills on
 
 ## Projects
 
+I present some brief examples of diverses projects I have done about connecting to databases to create data pipelines, cleanse data and create visuals.
 
 ## Contact
+
 * [Digital Resume](https://cutt.ly/my-digital-resume)
 * [LinkedIn](www.linkedin.com/in/j3sus-lmonroy)
 * [Email](jlmonroy01@gmail.com)
