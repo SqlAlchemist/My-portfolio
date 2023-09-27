@@ -23,7 +23,7 @@ I present some brief examples of diverses projects I have done about connecting 
 
 * [Digital Resume](https://cutt.ly/my-digital-resume)
 * [LinkedIn](www.linkedin.com/in/j3sus-lmonroy)
-* [Email](jlmonroy01@gmail.com)
+* [e-mail](jlmonroy01@gmail.com)
   
 ©️ 2023
 ---
