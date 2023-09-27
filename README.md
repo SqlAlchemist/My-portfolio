@@ -1,4 +1,5 @@
 # Personal Portfolio
+![Screen Shot 2023-09-26 at 18 32 26](https://github.com/SqlAlchemist/My-portfolio/assets/32658260/17ac5f6a-ba85-4d5d-b22d-15f3e1fa3784)
 
 ## About me
 
