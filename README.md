@@ -9,7 +9,7 @@ Hi, I am **Jesus L Monroy**. I have a master's in **Information Technologies** a
 
 I have worked in whole data life cycle (collection, storage, processing, analysis, and deployment) in government **intelligence**, but also in **e-commerce**, **finance** and **healthcare** businesses.
 
-The main tools I have used are spreadsheets, **SQL** and **Python** (Numpy, Pandas, Polars, SQLAlchemy, Seaborn, Altair, Plotly, Folium, Duckdb, Sckit-Learn). I have also used **Tableau**, **Looker Studio** and **Power BI** to create dashboards and APIs like **Datawrapper,** Google (Drive, Sheets, Analytics, Big Query), and ****Mega. I keep learning about Linux, Git, Github, Jira, Trello, Hadoop and PySpark.
+The main tools I have used are spreadsheets, **SQL** and **Python** (Numpy, Pandas, Polars, SQLAlchemy, Seaborn, Altair, Plotly, Folium, Duckdb, Sckit-Learn). I have also used **Tableau**, **Looker Studio** and **Power BI** to create dashboards and APIs like **Datawrapper,** Google (Drive, Sheets, Analytics, Big Query), and Mega. I keep learning about Linux, Git, Github, Jira, Trello, Hadoop and PySpark.
 
 My hobbies are reading, exercising and play with my dogs. I am vegan and I invite you to join us.
 
