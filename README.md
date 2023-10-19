@@ -27,8 +27,7 @@ I present some brief examples of diverses projects I have done about connecting 
   
 ©️ 2023
 
-![GitHub language count](https://img.shields.io/github/languages/count/SqlAlchemist/My-portfolio) 
-![GitHub top language](https://img.shields.io/github/languages/top/SqlAlchemist/My-portfolio?color=blue) 
+![GitHub all releases](https://img.shields.io/github/downloads/Sqlalchemist/My-portfolio/total)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Sqlalchemist/My-portfolio?style=social)
 ![new](https://badgen.net/badge/hello/world/red?icon=twitter)
 ![new](https://badgen.net/badge/python/sql/blue?icon=github)
