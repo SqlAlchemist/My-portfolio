@@ -21,7 +21,7 @@ I present some brief examples of diverses projects I have done about connecting 
 
 ## Contact
 
-* [Digital resume](https://cutt.ly/my-digital-resume)
+* [Digital resume](https://cutt.ly/my-digital-resume "My Digital Resume")
 * [LinkedIn](www.linkedin.com/in/j3sus-lmonroy)
 * [e-mail](jlmonroy01@gmail.com)
   
