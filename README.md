@@ -29,6 +29,7 @@ I present some brief examples of diverses projects I have done about connecting 
 
 ![linkedin](https://badgen.net/badge/Follow_me/linkedin/blue?icon=linkedin)
 ![python](https://badgen.net/badge/Done_with/Python/blue?icon=github)
+![python](https://img.shields.io/badge/Done_with-Python-blue)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Sqlalchemist/My-portfolio?style=social)
 
 ---
