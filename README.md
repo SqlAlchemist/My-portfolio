@@ -27,10 +27,9 @@ I present some brief examples of diverses projects I have done about connecting 
   
 ©️ 2023
 
-![GitHub all releases](https://img.shields.io/github/downloads/Sqlalchemist/My-portfolio/total)
+![linkedin](https://badgen.net/badge/follow-me/linkedin/blue?icon=linkedin)
+![python](https://badgen.net/badge/done-with/python/blue?icon=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Sqlalchemist/My-portfolio?style=social)
-![new](https://badgen.net/badge/hello/world/red?icon=twitter)
-![new](https://badgen.net/badge/python/sql/blue?icon=github)
 
 ---
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
