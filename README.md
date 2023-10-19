@@ -30,7 +30,6 @@ I present some brief examples of diverses projects I have done about connecting 
 ![GitHub language count](https://img.shields.io/github/languages/count/SqlAlchemist/My-portfolio) 
 ![GitHub top language](https://img.shields.io/github/languages/top/SqlAlchemist/My-portfolio?color=blue) 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Sqlalchemist/My-portfolio?style=social)
-
 ![new](https://badgen.net/badge/hello/world/red?icon=twitter)
 
 ---
