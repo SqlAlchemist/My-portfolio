@@ -15,20 +15,24 @@ My hobbies are reading, exercising and play with my dogs. I am vegan and I invit
 
 I am open to a position in a data-driven setting to use my skills on SQL and Python to create value from data in order to support business decision making.
 
+## Experience
+![Screen Shot 2023-10-19 at 12 56 19](https://github.com/SqlAlchemist/My-portfolio/assets/32658260/3b6aed4d-1bea-4ff8-b62f-43977bb8af05)
+
 ## Projects
 
 I present some brief examples of diverses projects I have done about connecting to databases to create data pipelines, data cleansing and visualizations.
 
+![Screen Shot 2023-10-19 at 13 05 36](https://github.com/SqlAlchemist/My-portfolio/assets/32658260/7abe6446-7eeb-4c3e-95fd-ef1ca09e43c9)
+
 ## Contact
 
-- [Digital resume](https://cutt.ly/my-digital-resume "See my Resume")
-- [LinkedIn](www.linkedin.com/in/j3sus-lmonroy "See my Profile")
-- [e-mail](jlmonroy01@gmail.com "Send me an e-mail")
+- 💼 [Digital resume](https://cutt.ly/my-digital-resume "See my Resume")
+- 👨‍💼 [LinkedIn](www.linkedin.com/in/j3sus-lmonroy "See my Profile")
+- ✉️ [e-mail](jlmonroy01@gmail.com "Send me an e-mail")
 
-©️ 2023
+ ©️ 2023
 
 ![python](https://img.shields.io/badge/Follow_me:-linkedin-blue?logo=linkedin)
 ![python](https://img.shields.io/badge/Top_language:-Python-blue?logo=github)
 ![python](https://img.shields.io/badge/Top_language:-SQL-green?logo=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Sqlalchemist/My-portfolio?style=social)   
-
