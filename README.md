@@ -27,9 +27,9 @@ I present some brief examples of diverses projects I have done about connecting 
   
 ©️ 2023
 
-![GitHub language count](https://img.shields.io/github/languages/count/{SqlAlchemist}/{My-portfolio}) 
-![GitHub top language](https://img.shields.io/github/languages/top/{SqlAlchemist}/{y-portfolio}?color=blue) 
-![GitHub Repo stars](https://img.shields.io/github/stars/{Sqlalchemist}/{y-portfolio}?style=social)
+![GitHub language count](https://img.shields.io/github/languages/count/SqlAlchemist/My-portfolio) 
+![GitHub top language](https://img.shields.io/github/languages/top/SqlAlchemist/My-portfolio?color=blue) 
+![GitHub Repo stars](https://img.shields.io/github/stars/Sqlalchemist/My-portfolio?style=social)
 
 ---
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
