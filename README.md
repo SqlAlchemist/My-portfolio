@@ -27,8 +27,8 @@ I present some brief examples of diverses projects I have done about connecting 
   
 ©️ 2023
 
-![linkedin](https://badgen.net/badge/follow-me/linkedin/blue?icon=linkedin)
-![python](https://badgen.net/badge/done-with/python/blue?icon=github)
+![linkedin](https://badgen.net/badge/Follow_me/linkedin/blue?icon=linkedin)
+![python](https://badgen.net/badge/Done_with/Python/blue?icon=github)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Sqlalchemist/My-portfolio?style=social)
 
 ---
