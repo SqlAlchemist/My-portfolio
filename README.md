@@ -5,24 +5,15 @@
 
 **Economist | Data analyst**
 
-Hi, I am **Jesus L. Monroy**. I have a master's in **Information Technologies** and a bachelor's in **Economics**. I am studying **Machine Learning** as well.
+I have experience in the entire data lifecycle (collection, storage, processing, analysis, and deployment) in **public security**, **e-commerce**, and **healthcare**. 
 
-I have worked in whole data life cycle (collection, storage, processing, analysis, and deployment) in government **intelligence**, but also in **e-commerce**, **finance** and **healthcare** businesses.
+Skilled in **SQL** and **Python** (Numpy, Pandas, Polars, SQLAlchemy, Seaborn, Altair, Plotly, Folium, Duckdb, Sckit-Learn), as well as in **Tableau**, **Looker Studio**, and APIs like **Datawrapper**, **Google** (BigQuery, Analytics, Drive, Sheets), and **Mega**.
 
-The main tools I have used are spreadsheets, **SQL** and **Python** (Numpy, Pandas, Polars, SQLAlchemy, Seaborn, Altair, Plotly, Folium, Duckdb, Sckit-Learn). I have also used **Tableau**, **Looker Studio** and **Power BI** to create dashboards and APIs like **Datawrapper,** Google (Big Query, Analytics, Drive, Sheets), and **Mega**. I am currently studying Machine Learning.
+Master's in **Information Technologies** and bachelor's in **Economics**. Currently studying machine learning. Hobbies include reading, exercising, and playing with my dogs. Vegan.
 
-My hobbies are reading, exercising and play with my dogs. I am vegan and I invite you to join us.
+## Objective
 
-I am open to a position in a data-driven setting to use my skills on SQL and Python to create value from data in order to support business decision making.
-
-## Experience
-![Screen Shot 2023-10-19 at 12 56 19](https://github.com/SqlAlchemist/My-portfolio/assets/32658260/3b6aed4d-1bea-4ff8-b62f-43977bb8af05)
-
-## Projects
-
-I present some brief examples of diverses projects I have done about connecting to databases to create data pipelines, data cleansing and visualizations.
-
-![Screen Shot 2023-10-19 at 13 05 36](https://github.com/SqlAlchemist/My-portfolio/assets/32658260/7abe6446-7eeb-4c3e-95fd-ef1ca09e43c9)
+To create data products that support business decision-making by applying my skills in SQL and Python.
 
 ## Contact
 
@@ -30,7 +21,7 @@ I present some brief examples of diverses projects I have done about connecting 
 - 👨‍💼 [LinkedIn](www.linkedin.com/in/j3sus-lmonroy "See my Profile")
 - ✉️ [e-mail](jlmonroy01@gmail.com "Send me an e-mail")
 
- ©️ 2023
+©️ 2023
 
 ![python](https://img.shields.io/badge/Follow_me:-linkedin-blue?logo=linkedin)
 ![python](https://img.shields.io/badge/Top_language:-Python-blue?logo=github)
