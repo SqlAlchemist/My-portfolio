@@ -18,8 +18,8 @@ To create data products that support business decision-making by applying my ski
 ## Contact
 
 - 💼 [Digital resume](https://cutt.ly/my-digital-resume "See my Resume")
-- 👨‍💼 [LinkedIn](www.linkedin.com/in/j3sus-lmonroy "See my Profile")
-- ✉️ [e-mail](jlmonroy01@gmail.com "Send me an e-mail")
+- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/j3sus-lmonroy "See my Profile")
+- ✉️ [e-mail](mailto:jlmonroy01@gmail.com?subject=Information%20request%20 "Send me an e-mail")
 
 ©️ 2023
 
