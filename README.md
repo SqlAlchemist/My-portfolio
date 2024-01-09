@@ -17,13 +17,11 @@ To create data products that support business decision-making by applying my ski
 
 ## Contact
 
-- 💼 [Digital resume](https://cutt.ly/my-digital-resume "See my Resume")
-- 👨‍💼 [LinkedIn](https://www.linkedin.com/in/j3sus-lmonroy "See my Profile")
-- ✉️ [e-mail](mailto:jlmonroy01@gmail.com?subject=Information%20request%20 "Send me an e-mail")
+<a href="https://www.linkedin.com/in/j3sus-lmonroy" target="_blank" rel="noreferrer"> <img src="https://icongr.am/material/card-account-details.svg?size=16&color=636363" alt="resume" width="25" height="25"/>
+<a href="https://www.twitter.com/sqlalchemist" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/twitter-original.svg?size=16&color=636363" alt="twitter" width="25" height="25"/>
+<a href="https://www.linkedin.com/in/j3sus-lmonroy" target="_blank" rel="noreferrer"> <img src="https://icongr.am/devicon/linkedin-original.svg?size=16&color=636363" alt="linkedin" width="25" height="25"/>
 
 ©️ 2023
 
-![python](https://img.shields.io/badge/Follow_me:-linkedin-blue?logo=linkedin)
 ![python](https://img.shields.io/badge/Top_language:-Python-blue?logo=github)
-![python](https://img.shields.io/badge/Top_language:-SQL-green?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/Sqlalchemist/My-portfolio?style=social)   
+![python](https://img.shields.io/badge/Top_language:-SQL-yellow?logo=github)
