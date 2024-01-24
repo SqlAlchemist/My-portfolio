@@ -5,11 +5,16 @@
 
 **Economist | Data analyst**
 
-I have experience in the entire data lifecycle (collection, storage, processing, analysis, and deployment) in **public security**, **e-commerce**, and **healthcare**. 
+I use tools like **SQL**, **Python**, **Tableau** and **Google apps** to collect, cleanse, transform, analyze and deploy insights from diverse data sources. I have experience in **public security**, **e-commerce**, and **healthcare**.
 
-Skilled in **SQL** and **Python** (Numpy, Pandas, Polars, SQLAlchemy, Seaborn, Altair, Plotly, Folium, Duckdb, Sckit-Learn), as well as in **Tableau**, **Looker Studio**, and APIs like **Datawrapper**, **Google** (BigQuery, Analytics, Drive, Sheets), and **Mega**.
+I hold a master's of **Information Technology** and bachelor's of **Economics.** I'll soon start on a machine learning certification. I like reading, writing, exercising, and playing with my dogs.
 
-Master's in **Information Technologies** and bachelor's in **Economics**. Currently studying machine learning. Hobbies include reading, exercising, and playing with my dogs. Vegan.
+My methodology is using data to identify incentives that move people among diverse 
+altenatives, so we can solve problems derived from social interactions.
+
+I'm committed to using my skills to create positive change in the world.
+
+I'm vegan and I invite you to join us.
 
 ## Objective
 
