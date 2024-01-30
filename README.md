@@ -2,7 +2,7 @@
 
 ## About me
 
-**Economist | Data analyst**
+**Economist | Data Scientist**
 
 I use tools like **SQL**, **Python**, **Tableau** and **Google apps** to collect, cleanse, transform, analyze and deploy insights from diverse data sources. I have experience in **public security**, **e-commerce**, and **healthcare**.
 
