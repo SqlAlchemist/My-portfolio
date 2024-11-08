@@ -2,25 +2,20 @@
 
 ## About me
 
-**Economist | Data Analyst**
+**Economist & Data Scientist**
 
-I use tools like **SQL**, **Python**, **Tableau** and **Google apps** to collect, cleanse, transform, analyze and deploy insights from diverse data sources. I have experience in **public security**, **e-commerce**, and **healthcare**.
+Data professional with over 10 years of experience applying data analysis techniques to diverse industries, including public security, e-commerce, and healthcare combining tools like SQL, Tableau, and Python for comprehensive data analysis and visualization.
 
-I hold a master's of **Information Technology** and bachelor's of **Economics.** I'll soon start on a machine learning certification. I like reading, writing, exercising, and playing with my dogs.
+Focused on using the Python ecosystem (Polars, Duckdb, Plotly, Folium, Scikit-learn) to uncover data insights.
 
-My approach is based on identifying incentives that move people so we can solve problems derived from social interactions.
+Empower data-driven decision-making with Quarto by integrating code, visualizations, and narrative text into interactive, reproducible and shareable data products, such as web applications, slideshows and documentation in diverse formats (html, ppt, xlsx, pdf).
 
-I'm committed to using my skills to create positive change in the world.
+I hold a master's of **Information Technology** and bachelor's of **Economics.** and a Certification on **Machine Learning**.
 
 I'm vegan and I invite you to join us.
 
-## Objective
-
-To create data products that support business decision-making by applying my skills in SQL and Python.
-
-
 <!-- Text with color, font, fontsize and specific size -->
-<p style="color:#2e4053; font-family: Helevetica; font-size: 20px;"></p>
+<p style="color:#2e4053; font-family: Helvetica; font-size: 20px;"></p>
 <!-- Insert url links in logos -->
 <!-- Twitter -->
 <a href="https://www.twitter.com/sqlalchemist" target="_blank" rel="noreferrer"> <img src="https://toppng.com/public/uploads/preview/twitter-x-new-logo-round-icon-png-11692480241tdbz6jparr.webp?size=16&color=3b3b3b" alt="twitter" width="35" height="34" style="padding-left:8px"/>
