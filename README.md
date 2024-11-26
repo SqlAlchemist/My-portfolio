@@ -1,18 +1,18 @@
-![profile2](https://github.com/SqlAlchemist/My-portfolio/assets/32658260/bf3475d9-c0b7-43c7-baa4-b1b6094501d5)
 
 ## About me
 
 **Economist & Data Scientist**
 
-Data professional with over 10 years of experience applying data analysis techniques to diverse industries, including public security, e-commerce, and healthcare combining tools like SQL, Tableau, and Python for comprehensive data analysis and visualization.
+Data professional with over 10 years of experience in public security, e-commerce and healthcare.
 
-Focused on using the Python ecosystem (Polars, Duckdb, Plotly, Folium, Scikit-learn) to uncover data insights.
+Leverage Python, SQL and Tableau to conduct comprehensive data analysis and visualization. 
+Create user-friendly data products (web apps, slideshows, and documents) that unleash actionable insights.
 
-Empower data-driven decision-making with Quarto by integrating code, visualizations, and narrative text into interactive, reproducible and shareable data products, such as web applications, slideshows and documentation in diverse formats (html, ppt, xlsx, pdf).
+Occasional contributer for LearningData and T3ch publishers on Medium, sharing data-related articles.
 
-I hold a master's of **Information Technology** and bachelor's of **Economics.** and a Certification on **Machine Learning**.
+I have a bachelor of Economics, a master of Information Technology and a Certification in Data Science and Machine Learning.
 
-I'm vegan and I invite you to join us.
+Vegan.
 
 <!-- Text with color, font, fontsize and specific size -->
 <p style="color:#2e4053; font-family: Helvetica; font-size: 20px;"></p>
