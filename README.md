@@ -27,3 +27,8 @@ Vegan.
 
 ![python](https://img.shields.io/badge/Top_language:-Python-blue?logo=github)
 ![python](https://img.shields.io/badge/Top_language:-SQL-yellow?logo=github)
+
+
+# Articles
+
+[SQL Window Functions Case Example](https://sqlalchemist.github.io/Portfolio/sql_wf_github.html)
