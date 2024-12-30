@@ -26,3 +26,4 @@ Vegan.
 
 * [Dashboards vs Web Reports](https://sqlalchemist.github.io/Portfolio/reporting_github.html)
 
+© 2024 All Rights Reserved
