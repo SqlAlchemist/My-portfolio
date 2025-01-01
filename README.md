@@ -1,4 +1,4 @@
-![name](https://github.com/user-attachments/assets/55c4b4bc-734c-4cdc-baa0-c4d1434c0d45)
+![name](https://github.com/user-attachments/assets/ba646ed5-d7c0-4f70-9191-8e3cde419524)
 
 **Economist & Data Scientist**
 
