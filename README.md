@@ -1,4 +1,4 @@
-![name](https://github.com/user-attachments/assets/ba646ed5-d7c0-4f70-9191-8e3cde419524)
+<h1 style="font:Helvetica Neue; color:#0066a1">Jesus L. Monroy</h1>
 
 **Economist & Data Scientist**
 
