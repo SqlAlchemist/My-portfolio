@@ -13,12 +13,7 @@ I have a bachelor of Economics, a master of Information Technology and a Certifi
 
 Vegan.
 
-[Portfolio](https://cutt.ly/jesus-portfolio) | [Medium](https://medium.com/@jesus_lmonroy) | [Linkedin](https://www.linkedin.com/in/j3sus-lmonroy) | [Twitter](https://www.twitter.com/sqlalchemist)
-
-![python](https://img.shields.io/badge/Top_language:-Python-blue?logo=github)
-![python](https://img.shields.io/badge/Top_language:-SQL-yellow?logo=github)
-
-### Posts
+## Posts
 
 * [SQL Window Functions Case Example](https://sqlalchemist.github.io/Portfolio/sql_wf_github.html)
 
@@ -26,4 +21,14 @@ Vegan.
 
 * [Dashboards vs Web Reports](https://sqlalchemist.github.io/Portfolio/reporting_github.html)
 
+* [Costo Anual Total (CAT)](https://sqlalchemist.github.io/Portfolio/cat_slides_github.html)
+
+## Contact
+
+[Portfolio](https://cutt.ly/jesus-portfolio) | [Medium](https://medium.com/@jesus_lmonroy) | [Linkedin](https://www.linkedin.com/in/j3sus-lmonroy) | [Twitter](https://www.twitter.com/sqlalchemist)
+
 © 2024 All Rights Reserved
+
+![python](https://img.shields.io/badge/Top_language:-Python-blue?logo=github)
+![python](https://img.shields.io/badge/Top_language:-SQL-yellow?logo=github)
+![tableau](https://img.shields.io/badge/Top_language:-Tableau-brown?logo=github)
