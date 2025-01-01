@@ -1,4 +1,4 @@
-<h1 style="font:Helvetica Neue; color:#0066a1">Jesus L. Monroy</h1>
+<h1 style="font:Helvetica Neue; color:#003f5c">Jesus L. Monroy</h1>
 
 **Economist & Data Scientist**
 
