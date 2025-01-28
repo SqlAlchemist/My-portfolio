@@ -1,6 +1,13 @@
-# Posit Connect Cloud 
+# Projects published in Posit Connect Cloud
 
-Created: 2025-01-27
+`Created: 2025-01-27`
 
-Projects published in Posit cloud beta release.
+- Project 1:
+- Project 2:
 
+
+<br>
+
+**Jesus L. Monroy**
+<br>
+*Economist & Data Scientist*
