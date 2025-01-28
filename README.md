@@ -15,13 +15,13 @@ Vegan.
 
 ## Posts
 
-* [SQL Window Functions Case Example](https://sqlalchemist.github.io/Portfolio/sql_wf_github.html)
+* [SQL Window Functions Case Example](https://sqlalchemist.github.io/Projects/sql_wf_github.html)
 
-* [Why BI Tools Fall Short](https://sqlalchemist.github.io/Portfolio/why_bi_tools_fall_short_github.html)
+* [Why BI Tools Fall Short](https://sqlalchemist.github.io/Projects/why_bi_tools_fall_short_github.html)
 
-* [Dashboards vs Web Reports](https://sqlalchemist.github.io/Portfolio/reporting_github.html)
+* [Dashboards vs Web Reports](https://sqlalchemist.github.io/Projects/reporting_github.html)
 
-* [Costo Anual Total (CAT)](https://sqlalchemist.github.io/Portfolio/cat_slides_github.html)
+* [Costo Anual Total (CAT)](https://sqlalchemist.github.io/Projects/cat_slides_github.html)
 
 ## Contact
 
