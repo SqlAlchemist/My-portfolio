@@ -30,5 +30,6 @@ Vegan.
 © 2024 All Rights Reserved
 
 ![python](https://img.shields.io/badge/Top_language:-Python-blue?logo=github)
-![python](https://img.shields.io/badge/Top_language:-SQL-yellow?logo=github)
-![tableau](https://img.shields.io/badge/Top_language:-Tableau-brown?logo=github)
+![sql](https://img.shields.io/badge/Top_language:-SQL-yellow?logo=github)
+![tableau](https://img.shields.io/badge/Top_visualization:-Tableau-brown?logo=github)
+![ubuntu](https://img.shields.io/badge/Top_OS:-Ubuntu-brown?logo=github)
